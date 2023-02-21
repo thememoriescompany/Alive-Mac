@@ -1,5 +1,8 @@
 README.md
 
+| :warning: | Alive is currently in development and not yet ready for production use. |
+| - |:-|
+
 <p align="center">
   <img src="https://i.imgur.com/i183DWG.png" height="128">
   <h1 align="center">Make Web Screenshots Alive</h1>
@@ -11,6 +14,5 @@ A macOS app that allows you to effortlessly capture, organize and relive interac
 <img width="1012" alt="github-banner" src="https://i.imgur.com/if8BTC8.png">
 
 
-| :warning: | Alive is currently in development and not yet ready for production use. |
-| - |:-|
+
 
