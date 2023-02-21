@@ -1,4 +1,3 @@
-README.md
 
 | :warning: | Alive is currently in development and not yet ready for production use. |
 | - |:-|
